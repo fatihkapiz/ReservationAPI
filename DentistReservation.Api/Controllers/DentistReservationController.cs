@@ -8,7 +8,7 @@ using System.Globalization;
 namespace DentistReservation.Api.Controllers
 {
     [ApiController]
-    [Route("controller")]
+    [Route("[controller]")]
     public class DentistReservationController : ControllerBase
     {
         private readonly DentistReservationContext _context;
