@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mkWfgCsBGRWP9W+Osh6avRVvEZFbB0VVZieF4NLnRDM=",
+  "Source": "DentistReservation.Api",
+  "BasePath": "_content/DentistReservation.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
